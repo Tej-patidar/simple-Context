@@ -1,0 +1,23 @@
+1. context naam ka folder banana haiii
+
+2. context folder me Context.js file bannana hai
+
+3. context js me rafce krege
+
+4. ek context create krna hai or usko export bhi krna hai
+
+5. jo bhi context bnaya hai usko return ke niche wrap kr dege (opening closing tag me) or .Provider lagayege provide krane ke liye
+
+6. props ke aaye huye data ko context me props.children ke jariye bhejege
+
+7. jo bhi data pure app me bhejna cahte ho usko context me value attribute me bhej dege
+
+8. ab app.js ko context se wrap ke dege
+
+9. jis bhi file me us context ke data ko use krna hai to jis naam se context bnaya tha usko import ke lege
+
+10. context ko use krne ke liye ...variable me descrutre kr lege or baha bheji hui value aaygi uske = me useContext krege or uske undr apne context ka naam dege
+ 
+11.ab apn ko pure app me bbheji hui value mil jaygi dekhne ke liye console kare........
+
+

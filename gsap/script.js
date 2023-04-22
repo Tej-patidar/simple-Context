@@ -1,0 +1,30 @@
+const tl = gsap.timeline()
+
+tl.from('#logo',{
+    y:-100,
+    duration:1,
+    delay:1
+})
+tl.from('li',{
+    y:-100,
+    duration:1,
+    stagger:.3
+})
+tl.from('#heading',{
+    x:-500,
+    duration:.5
+})
+tl.from('#para',{
+    x:-800,
+    duration:1
+})
+tl.from('#btn',{
+    scale:.5,
+    duration:1,
+    opacity:0
+})
+tl.from('img',{
+    scale:.2,
+    x:100,
+    opacity:0
+})
